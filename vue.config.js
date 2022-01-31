@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/pokemon-app-vue/',
+  publicPath: '/pokemon-app-vue',
   devServer: {
     host: 'localhost',
   },
